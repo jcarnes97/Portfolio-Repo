@@ -12,10 +12,11 @@ icloud_storage = 1.15
 moviebox = 2.30
 fitness_connection = 40
 spotify = 12.98
-#music = 500
+#Music includes choir. hopefully soon voice lessons
+music = 30
 
 #Adding subscriptions
-subscriptions = icloud_storage + moviebox + fitness_connection + spotify
+subscriptions = icloud_storage + moviebox + fitness_connection + spotify + music
 
 #Expenses per month
 rent_included_utilities = 1150.00
