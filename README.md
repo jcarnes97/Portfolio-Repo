@@ -1,1 +1,1 @@
-#This is my small project and professional portfolio repository.
+This is my small project and professional portfolio repository.
